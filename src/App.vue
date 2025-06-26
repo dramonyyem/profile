@@ -61,7 +61,7 @@ onMounted(() => {
         </div>
         <div class="w-5/10 mt-2">
           <div class="w-[350px]">
-            <div class="text-[30px]">Hi, I'm Mony</div>
+            <div class="text-[30px]">Hi, I'm Daramony</div>
             <div class="text-[20px] py-2 font-bold">Software Developer</div>
             <div>2+ Years</div>
             <div>
